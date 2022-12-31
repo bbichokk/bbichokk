@@ -1,5 +1,5 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi,Buenos,Привет,Сәлем 👋, I'm AIDAR JUMASHEV</h1>
+<h1 align="center">Hi,Hola,Привет,Сәлем 👋, I'm AIDAR JUMASHEV</h1>
 <h3 align="center">A promising Full stack developer from Kazakhstan</h3>
 <img align="right" width="300" src="https://studio.code.org/v3/assets/94Dl-F9cvXgEbDXZzpCH57uMXtEkbaC4pJswu8WXriE/petshop_intro.gif">
 
