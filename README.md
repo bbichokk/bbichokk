@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/59378420/210417557-884a751a-f22f-4b6e-92d0-0ac7d434ecd6.png"  >
+<img src="https://user-images.githubusercontent.com/59378420/210417557-884a751a-f22f-4b6e-92d0-0ac7d434ecd6.png" width="700" >
 </p>
 
-<h1 align="center">Hi, Hola, Привет, Сәлем 👋 I'm AIDAR JUMASHEV</h1>
+<h2 align="center">Hi, Hola, Привет, Сәлем 👋 I'm AIDAR JUMASHEV</h2>
 <h3 align="left"><b> A promising Full stack developer from Kazakhstan </b></h3>
 
 <img align="right" width="270" src="https://studio.code.org/v3/assets/94Dl-F9cvXgEbDXZzpCH57uMXtEkbaC4pJswu8WXriE/petshop_intro.gif">
